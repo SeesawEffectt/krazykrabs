@@ -1,0 +1,41 @@
+body {
+    background-color: BD6749;
+  }
+  
+  h1 {
+    color: white;
+    text-align: center;
+    text-shadow: 2px 2px #271E1C;
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+  }
+  
+  p {
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+    font-size: 20px;
+    text-align: center;
+    text-shadow: 2px 2px #271E1C;
+  }
+
+  div {
+    text-align: center;
+  }
+
+  h2 {
+    text-align: center;
+    font-size: 60px;
+    color: red;
+  }
+
+a:link {
+    color:orange;
+    font-family: verdana, cursive;
+}
+a:visited {
+    color:orange;
+    font-family: verdana, cursive;
+}
+
+  .grid-container {
+    display: grid;
+    grid-template-columns: auto auto;
+  }
