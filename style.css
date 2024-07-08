@@ -1,5 +1,5 @@
 body {
-    background-color: BD6749;
+    background-color: #BD6749;
   }
   
   h1 {
@@ -37,5 +37,10 @@ a:visited {
 
   .grid-container {
     display: grid;
-    grid-template-columns: auto auto;
+    grid-template-columns: auto auto auto auto;
+  }
+
+  img{
+    max-width: 80%;
+    max-height: 80%;
   }
